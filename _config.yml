@@ -42,5 +42,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+future: true
+
 repository: nuclearfriend/nuclearfriend.github.io
 google_analytics: UA-80830407-1
