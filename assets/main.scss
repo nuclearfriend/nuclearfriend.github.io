@@ -1,0 +1,26 @@
+---
+---
+
+$text-color:       #000 !default;
+$background-color: #fdfdfd !default;
+$brand-color:      #e22a2a !default;
+
+@import "{{ site.theme }}";
+
+a {  
+    &:visited {
+      color: $brand-color;
+    }
+
+    &:hover {
+      color: $brand-color;
+    }
+}
+
+.site-header {
+    border-top: none;
+}
+
+.feed-subscribe {
+    text-align: right;
+}
