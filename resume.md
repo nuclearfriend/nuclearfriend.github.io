@@ -4,11 +4,11 @@ title: resume
 permalink: /resume/
 ---
 
-## Personal
+### Personal
 **Email** contact@joncreates.com  
 **Address** 167-0053 Sanparesu Nishiogi Part Ⅱ 301, 3-7-6, Nishiogiminami, Suginami-ku, Tokyo, Japan
 
-## Summary
+### Summary
 * Game programmer with a passion for creating engaging player experiences
 * Extensive Unity experience working on several titles
 * 10 years of professional experience in the videogame industry
