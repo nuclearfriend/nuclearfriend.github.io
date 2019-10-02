@@ -5,8 +5,8 @@ permalink: /resume/
 ---
 
 ## Personal
-Email: contact@joncreates.com
-Address: 167-0053 Sanparesu Nishiogi Part Ⅱ 301, 3-7-6, Nishiogiminami, Suginami-ku, Tokyo, Japan
+**Email** contact@joncreates.com  
+**Address** 167-0053 Sanparesu Nishiogi Part Ⅱ 301, 3-7-6, Nishiogiminami, Suginami-ku, Tokyo, Japan
 
 ## Summary
 * Game programmer with a passion for creating engaging player experiences
