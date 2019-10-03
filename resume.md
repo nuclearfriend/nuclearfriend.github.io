@@ -4,15 +4,15 @@ title: resume
 permalink: /resume/
 ---
 
-### Personal
+## Contact
 **Email** contact@joncreates.com  
 **Address** 167-0053 Sanparesu Nishiogi Part Ⅱ 301, 3-7-6, Nishiogiminami, Suginami-ku, Tokyo, Japan
 
-### Summary
-* Game programmer with a passion for creating engaging player experiences
-* Extensive Unity experience working on several titles
-* 10 years of professional experience in the videogame industry
-* Worked on popular gaming brands such as Pokemon, Need for Speed and Real Racing.
+## Summary
+* Game programmer with a passion for creating engaging player experiences.
+* 10 years of professional experience in the videogame industry.
+* Extensive experience working on several released games across a variety of engines and tech.
+* Worked with well known gaming properties such as Pokemon, Need for Speed and Real Racing.
 * Experience across multiple platforms, including iOS, Android, Nintendo Switch, Xbox One, PS4.
 
 ## Professional History
@@ -50,7 +50,7 @@ Aug, 2015 - Sep, 2017 (Australia - Melbourne)
 * Developed a game for a large Australian sporting organisation, although it was never released.
 
 ### Electronic Arts / Firemint
-**Software Engineer II** 
+**Software Engineer II**  
 Aug, 2010 - Jun, 2015 (Australia - Melbourne)
 
 * All work done in custom in-house engines, mostly utilising C++.
@@ -73,8 +73,8 @@ Aug, 2010 - Jun, 2015 (Australia - Melbourne)
 **Software Engineer**  
 Feb, 2007 - Aug, 2009 (Australia - Melbourne)
 
-* Worked on a 3D platformer for Xbox 360/Wii, Space Chimps.
-* Programmed game movement, enemy AI and level creation tools.
+* Worked on Space Chimps, a 3D platformer for Xbox 360/Wii.
+   * Programmed game movement, enemy AI and level creation tools.
 
 ## Education
 
@@ -87,9 +87,8 @@ Feb, 2007 - Aug, 2009 (Australia - Melbourne)
 ## Skills
 * Languages - C#, C++, Obj-C, Java, Javascript, PHP, Lua
 * Game Engines - Unity
-* Databases - SQL, Firebase Realtime
-* Project Management - JIRA, Hansoft, Trello
-* Bug Management - JIRA
+* Databases - SQL, Firebase
+* Task/Bug Management - JIRA, Hansoft, Trello
 * IDE - Visual Studio, XCode
 * OS - Windows, MacOS X
 * Version Control - SVN, Perforce, Git
@@ -97,6 +96,7 @@ Feb, 2007 - Aug, 2009 (Australia - Melbourne)
 * Graphics API - OpenGL
 
 ## Misc
-* Created a hobby project, “The Maitre D” that came first in several categories during a game jam competition.
-* Started making games when I was 12.
+* Programmed “The Maitre D” for Ludum Dare, that came first in several categories in the Ludum Dare competition.
+* Started making games in ZZT, a game engine created by Epics Tim Sweeney, when I was a wee lad in High School.
+* Contributed programming and design to a few Half-Life (and Half-Life 2) mods.
    
