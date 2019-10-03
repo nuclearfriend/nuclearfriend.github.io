@@ -9,7 +9,7 @@ layout: page
 
 **Hi, I'm Jon!**
 
-* I'm a full-time **Game Programmer**, where I currently work for **Pokemon**.
+* I'm a **Game Programmer**, where I currently work for **Pokemon**.
 * I enter **Ludum Dare** every now and then, you can find my entries on [itch.io](https://nuclearfriend.itch.io).
 * I'm currently making a fast paced action game called **turbosnake**.
 
