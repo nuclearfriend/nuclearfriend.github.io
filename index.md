@@ -5,9 +5,12 @@
 layout: page
 ---
 
+![](/assets/images/me.jpg)
 
-1. game programmer
-2. japanese study-er
-3. dadder
+**Hi, I'm Jon!**
 
-* [my games](https://nuclearfriend.itch.io)
+* I'm a full-time **Game Programmer**, where I currently work for **Pokemon**.
+* I enter **Ludum Dare** every now and then, you can find my entries on [itch.io](https://nuclearfriend.itch.io).
+* I'm currently making a fast paced action game called **turbosnake**.
+
+I created this site to basically host a blog, I wanted to do a bit of long form writing on some things, really just for me, but if you found anything useful in here that's cool too.

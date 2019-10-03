@@ -4,10 +4,6 @@ title: resume
 permalink: /resume/
 ---
 
-## Contact
-**Email** contact@joncreates.com  
-**Address** 167-0053 Sanparesu Nishiogi Part Ⅱ 301, 3-7-6, Nishiogiminami, Suginami-ku, Tokyo, Japan
-
 ## Summary
 * Game programmer with a passion for creating engaging player experiences.
 * 10 years of professional experience in the videogame industry.
@@ -99,4 +95,7 @@ Feb, 2007 - Aug, 2009 (Australia - Melbourne)
 * Programmed “The Maitre D” for Ludum Dare, that came first in several categories in the Ludum Dare competition.
 * Started making games in ZZT, a game engine created by Epics Tim Sweeney, when I was a wee lad in High School.
 * Contributed programming and design to a few Half-Life (and Half-Life 2) mods.
-   
+
+## Contact
+**Email** <mailto:contact@joncreates.com>  
+**Skype** [nuclearfriend](skype:nuclearfriend?add)
