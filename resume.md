@@ -17,12 +17,12 @@ permalink: /resume/
 **Sr. Software Engineer**  
 Sep, 2017 - Current (Japan - Tokyo)
 
-
 * Worked with external studio on pre-production of an unannounced mobile title.
 * Provided insight and guidance to Creatures project managers on mobile development.
-* With a small team, developed a prototype Switch title.
-   * 8 Player support (Local)
-   * Pitched to senior management at Pokemon
+* With an agile team, lead development on prototype Switch title.
+   * Designed and developed a flow to allow 8-players to join the game and manage their controllers.
+   * High paced action game with a complex collision setup, allowing for smooth resolution of player/player and player/environment collisions, as well as damage and other trigger zones.
+   * Presented on multiple occassions to executive level at The Pokemon Company
 
 ### Powerhoof
 **Porting Developer (Contract)**  
@@ -31,7 +31,7 @@ Aug, 2015 - Sep, 2017 (Australia - Melbourne)
 * Ported a Unity game, Crawl, to PS4 / Xbox One.
 * Required development of console features such as user management, save games, controller management, achievements and other minor system features and support.
 * It also included handling publishing tasks such as ensuring platform compliance, performing QA, organising localisation, ratings and submission.
-* Had to work independently as I worked on a small team from home with little oversight.
+* Had to work independently and diligently as I worked entirely from home with little oversight.
 
 ### Super Hi Games
 **Co-founder / Software Engineer**  
@@ -41,9 +41,9 @@ Aug, 2015 - Sep, 2017 (Australia - Melbourne)
 * Made games and apps using Unity for iOS/Android.
 * A large range of programming tasks and duties undertaken e.g 3D rendering, collision, metagame, currency systems, input and UI.
 * First time using Unity in a professional environment, had to self teach and be able to problem solve issues by myself.
-* Extended Unity Editor where necessary to aid development, for example, creating a Voxel Model Animation Tool
-* Released two titles, Block ur Socks, an avatar creation app, and Dr Nakamoto’s Digital Eggs, a digital pet game. 
-* Developed a game for a large Australian sporting organisation, although it was never released.
+* Extended Unity Editor with tools to aid development, for example, created a Voxel Model Animation Tool.
+* Released two titles, Block ur Socks, an avatar creation app, and Dr Nakamoto’s Digital Eggs, a digital pet game.
+* Developed an unannounced prototype for a large Australian sporting organisation.
 
 ### Electronic Arts / Firemint
 **Software Engineer II**  
