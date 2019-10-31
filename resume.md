@@ -5,10 +5,12 @@ permalink: /resume/
 ---
 
 ## Summary
+
 * Game programmer with a passion for creating engaging player experiences.
 * 10 years of professional experience in the videogame industry.
-* Extensive experience working on several released games across a variety of engines and tech.
-* Worked with well known gaming properties such as Pokemon, Need for Speed and Real Racing.
+* Have released games across a large variety of engines and technologies.
+* Have both worked in large teams requiring strong communication and structure, as well as smaller teams or solo, requiring strong self management.
+* Have worked with established video game properties such as Pokemon, Need for Speed and Real Racing.
 * Experience across multiple platforms, including iOS, Android, Nintendo Switch, Xbox One, PS4.
 
 ## Professional History
@@ -92,9 +94,11 @@ Feb, 2007 - Aug, 2009 (Australia - Melbourne)
 * Graphics API - OpenGL
 
 ## Misc
-* Programmed “The Maitre D” for Ludum Dare, that came first in several categories in the Ludum Dare competition.
-* Started making games in ZZT, a game engine created by Epics Tim Sweeney, when I was a wee lad in High School.
-* Contributed programming and design to a few Half-Life (and Half-Life 2) mods.
+* Often take part in game jams, am a long time participant in the Ludum Dare competition where I participate with friends. Programmed for “The Maitre D”, that came first in several categories including Overall.
+* Started making games in ZZT, a dungeon-crawl/adventure game engine created by Epic's Tim Sweeney, when I was a wee lad in High School.
+* Contributed programming and design to several Half-Life (and Half-Life 2) mods. Was an active contributor to the HLCoders mailing list, regularly speaking with Valve programmers and offering advice to other developers.
+* Try to stay healthy by going to the gym a few times a week.
+* Favourite game property is Half-Life!
 
 ## Contact
 **Email** <mailto:contact@joncreates.com>  

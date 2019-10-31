@@ -9,8 +9,8 @@ layout: page
 
 **Hi, I'm Jon!**
 
-* I'm a **Game Programmer**, where I currently work for **Pokemon**.
-* I enter **Ludum Dare** every now and then, you can find my entries on [itch.io](https://nuclearfriend.itch.io).
-* I'm currently making a fast paced action game called **turbosnake**.
+* I'm a **Game Programmer**, where I currently work for **Pokemon**
+* I participate in game jams every once in a full moon, particularly **Ludum Dare**! You can find my entries on [itch.io](https://nuclearfriend.itch.io)
+* I'm currently building an intense action game called **turbosnake**
 
-I created this site to basically host a blog, I wanted to do a bit of long form writing on some things, really just for me, but if you found anything useful in here that's cool too.
+I created this site to basically host a blog, I wanted to do a bit of long form writing on some things, really just for me, but if you found anything useful in here that's cool too!
